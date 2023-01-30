@@ -1,0 +1,24 @@
+{
+  "name": "w03ch01",
+  "version": "1.0.0",
+  "description": "Week 3 Challenge 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sfdezlop/202301-W3CH1-santiago-fernandez-.git"
+  },
+  "keywords": [
+    "Juego",
+    "de",
+    "Tronos"
+  ],
+  "author": "Santiago Fer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sfdezlop/202301-W3CH1-santiago-fernandez-/issues"
+  },
+  "homepage": "https://github.com/sfdezlop/202301-W3CH1-santiago-fernandez-#readme"
+}
