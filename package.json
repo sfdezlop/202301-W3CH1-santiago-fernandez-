@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --watchAll",
+    "test:prod": "jest --watchAll --coverage --watchAll=false",
     "type": "module",
     "prepare": "husky install",
     "sass": "sass sass:css --watch"
